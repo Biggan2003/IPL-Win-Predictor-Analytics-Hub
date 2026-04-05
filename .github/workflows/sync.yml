@@ -14,4 +14,4 @@ jobs:
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          git push https://bigganbiggan:$HF_TOKEN@huggingface.co/spaces/bigganbiggan/IPL-Win-Predictor main
+          git push https://bigganbiggan:$HF_TOKEN@huggingface.co/spaces/bigganbiggan/IPL%20Win%20Predictor main
