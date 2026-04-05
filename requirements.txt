@@ -1,4 +1,1 @@
-gradio
-joblib
-pandas
-scikit-learn
+gradio==3.50.2
